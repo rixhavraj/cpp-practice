@@ -14,3 +14,5 @@ int main(){{
     cout<<calc.add(5.5, 20) <<endl;
     return 0;
 }}
+
+//Polymorphism in C++ is a core Object-Oriented Programming (OOP) concept that translates to "having many forms". It allows a single entity (such as a function or an operator) to behave differently based on the context or the object it is interacting with
