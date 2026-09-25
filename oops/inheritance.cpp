@@ -23,3 +23,6 @@ int main() {
     return 0;
 }   
 
+/*
+Inheritance is a core Object-Oriented Programming (OOP) mechanism that allows a subclass (child) to acquire the attributes and methods of a superclass (parent), promoting code reusability and hierarchical organization. 
+*/
