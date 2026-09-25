@@ -44,3 +44,22 @@ int main() {
 
     return 0;
 }
+
+
+/*
+Insertion sort is a simple, in-place, and stable comparison-based sorting algorithm that builds a sorted array one element at a time, similar to sorting a hand of playing cards.  It divides the input into a sorted subarray (initially just the first element) and an unsorted subarray, iteratively taking the next element from the unsorted part and inserting it into its correct position within the sorted part. 
+
+The algorithm works by comparing the current element (key) with the elements in the sorted subarray from right to left. If a sorted element is larger than the key, it is shifted one position to the right to make space. This shifting continues until an element smaller than or equal to the key is found, at which point the key is inserted into the resulting gap. This process repeats for each element in the unsorted portion until the entire array is sorted. 
+
+Key Characteristics and Complexity:
+
+Time Complexity: The best-case time complexity is 
+O(n) when the input is already sorted or nearly sorted.  The average and worst-case time complexities are 
+O(n 
+2
+ ), occurring when the input is in reverse order.
+Space Complexity: It is an in-place algorithm with 
+O(1) auxiliary space, as it sorts the array without requiring additional storage proportional to the input size. 
+Stability: Insertion sort is stable, meaning it preserves the relative order of records with equal keys. 
+Use Cases: Due to its simplicity and efficiency on small or nearly sorted datasets, it is often used as a subroutine in hybrid sorting algorithms like Quicksort or Mergesort for small subarrays.
+*/
