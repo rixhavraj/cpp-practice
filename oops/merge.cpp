@@ -22,3 +22,9 @@ void mergeSort(vector<int>& arr, int left, int right) {
     }
 }   
 
+
+
+/*
+Merge Sort
+This algorithm recursively divides the array into halves until single elements remain, then merges them back together in sorted order.  It guarantees O(n log n) time complexity but requires O(n) auxiliary space for the temporary arrays used during merging
+*/
