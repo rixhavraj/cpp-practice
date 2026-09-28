@@ -37,4 +37,13 @@ Best Case: The target is the first element, resulting in O(1) time complexity.
 Worst Case: The target is the last element or not present, requiring O(n) comparisons where n is the number of elements. 
 Space Complexity: It requires O(1) extra space, as it only needs a variable to track the current index.
 While less efficient than binary search for large, sorted datasets, linear search is preferred when data is unsorted or when the overhead of sorting is not justified by the search frequency. It simply compares each item to the target value, returning the index of the first match or a failure indicator (like -1) if no match exists. 
+
+Fibonacci Sequence
+The Fibonacci sequence is a mathematical series of numbers where each number is the sum of the two preceding ones, typically starting with 0 and 1.  The sequence begins 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, and continues infinitely. 
+
+Mathematically, the sequence is defined by the recurrence relation:
+
+ This pattern appears frequently in nature, such as in the branching of trees, the arrangement of leaves, and the spirals of shells, and is closely related to the Golden Ratio (
+≈1.618), which is the limit of the ratio of consecutive Fibonacci numbers.
+
 */
