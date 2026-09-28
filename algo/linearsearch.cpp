@@ -41,6 +41,8 @@ While less efficient than binary search for large, sorted datasets, linear searc
 Fibonacci Sequence
 The Fibonacci sequence is a mathematical series of numbers where each number is the sum of the two preceding ones, typically starting with 0 and 1.  The sequence begins 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, and continues infinitely. 
 
+avoid this 
+
 Mathematically, the sequence is defined by the recurrence relation:
 
  This pattern appears frequently in nature, such as in the branching of trees, the arrangement of leaves, and the spirals of shells, and is closely related to the Golden Ratio (
