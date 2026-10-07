@@ -41,4 +41,6 @@ If the target matches the middle element, the search terminates and returns the 
 If the target is smaller, the algorithm eliminates the upper half and continues searching the left side.
 If the target is larger, it eliminates the lower half and searches the right side. 
 This halving process repeats until the target is found or the search space is exhausted. Because it relies on the sorted order of elements to eliminate half of the remaining options in each step, binary search requires the input data to be pre-sorted to function correctly. 
+
+
 */
