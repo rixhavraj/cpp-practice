@@ -6,3 +6,6 @@ Machine Learning (ML) is primarily categorized into three main types based on ho
 
 To see all files and folders in Command Prompt (CMD), you will use variations of the dir (Directory) command.
 By default, the standard dir command hides certain system and hidden configuration files. Use the modifications below to see absolutely everything.
+
+Session hijacking (also known as cookie hijacking or TCP hijacking) is a cyberattack where an unauthorized person steals or intercepts a valid session token or ID to impersonate a legitimate user on a website, application, or network.
+Once logged in, the user receives a unique session token (like an HTTP cookie) that tells the server they are already authenticated. If an attacker steals that token, they can use it to take over the active account without needing a password or multi-factor authentication (MFA) code.
